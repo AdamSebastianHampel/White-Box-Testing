@@ -1,4 +1,4 @@
-For this assignment, you will have to achieve 100% Branch and Condition Coverage. For this assignment, this means that for each conditional statement, you need to have a test case for each combination of conditions. So if your conditional statement was a or b you would need to have a test case for each row of the following truth table:
+You will have to achieve 100% Branch and Condition Coverage. For this assignment, this means that for each conditional statement, you need to have a test case for each combination of conditions. So if your conditional statement was a or b you would need to have a test case for each row of the following truth table:
 Truth table for "a or b" a 	b 	outcome
 T 	T 	T
 T 	F 	T
